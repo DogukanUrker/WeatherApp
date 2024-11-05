@@ -9,7 +9,7 @@ WeatherApp is a cross-platform weather application that provides real-time weath
 ## Features
 
 - Real-time weather updates
-- Supports multiple platforms: iOS, Android, macOS, Windows, Linux, and Web
+- Supports both iOS and Android.
 - Beautiful UI
 - Fetches weather data from a reliable API
 
