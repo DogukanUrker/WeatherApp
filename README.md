@@ -29,7 +29,7 @@ Watch the demo video to see the app in action:
 
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 - Python: [Install Python](https://www.python.org/downloads/)
-- Weather API: [Get your API Key](https://weatherapi.com/)
+- Weather API: [Get your API Key](https://www.weatherapi.com)
 
 ### Installation
 
@@ -87,7 +87,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Flutter](https://flutter.dev/)
 - [Python](https://www.python.org/)
-- [Weather API](https://weatherapi.com/)
+- [Weather API](https://www.weatherapi.com)
 - [3D Weather Icons by Mikołaj Niznik](https://www.figma.com/community/file/1023658389987124693/mikoaj-niznik-3d-weather-icons)
 
 ## Contributing
