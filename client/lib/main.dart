@@ -161,8 +161,7 @@ class _MyHomePageState extends State<MyHomePage> {
     String lowercaseCondition = condition.toLowerCase();
 
     // Check if the condition contains any of these keywords
-    if (lowercaseCondition.contains('sunny') ||
-        lowercaseCondition.contains('clear')) {
+    if (lowercaseCondition.contains('sunny')) {
       return isLightTheme ? Colors.orange : Colors.orange.shade700;
     } else if (lowercaseCondition.contains('cloud')) {
       return isLightTheme ? Colors.blue.shade200 : Colors.blue.shade400;
